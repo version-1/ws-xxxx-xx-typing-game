@@ -1,0 +1,8 @@
+{
+  "name": "ws-xxxx-xx-otoate-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:version1-workspace/ws-xxxx-xx-otoate-game.git",
+  "author": "version-1 <j.onodera26@gmail.com>",
+  "license": "MIT"
+}
