@@ -1,1 +1,1 @@
-api: cd server && npm installl && npm start
+api: cd server && npm install && npm start
