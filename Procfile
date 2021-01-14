@@ -1,1 +1,1 @@
-api: cd server && yarn start
+api: cd server && npm installl && npm start
